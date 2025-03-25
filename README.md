@@ -1,7 +1,6 @@
 # PDF 转 Word 工具 🔄
 
 ![GitHub release](https://img.shields.io/badge/版本-v1.2.0-green)
-![下载量](https://img.shields.io/badge/下载-1000+-blue)
 
 一款本地运行的 PDF 转 Word 文档工具，专注处理文本型 PDF 文件转换
 
