@@ -31,9 +31,3 @@
 ### 直接使用
 1. 下载最新版 [pdf_to_word_tool.exe](https://github.com/yourusername/pdf_to_word_tool/releases)
 2. 双击运行（无需安装依赖）
-
-### 开发者模式
-```bash
-git clone https://github.com/yourusername/pdf_to_word_tool.git
-pip install -r requirements.txt
-python main.py
